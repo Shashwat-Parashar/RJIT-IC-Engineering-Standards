@@ -1,0 +1,102 @@
+# ==========================================
+# RJIT Innovation Club Engineering Standards
+# Git Ignore
+# ==========================================
+
+# ----------------------------
+# Operating System Files
+# ----------------------------
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ----------------------------
+# Visual Studio Code
+# ----------------------------
+
+.vscode/
+
+# Uncomment if you want to share workspace settings
+# !.vscode/settings.json
+
+# ----------------------------
+# JetBrains IDEs
+# ----------------------------
+
+.idea/
+
+# ----------------------------
+# Temporary Files
+# ----------------------------
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ----------------------------
+# Log Files
+# ----------------------------
+
+*.log
+
+# ----------------------------
+# Python
+# ----------------------------
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ----------------------------
+# Node.js
+# ----------------------------
+
+node_modules/
+
+# ----------------------------
+# Build / Distribution
+# ----------------------------
+
+dist/
+build/
+out/
+
+# ----------------------------
+# Environment Files
+# ----------------------------
+
+.env
+.env.*
+
+# ----------------------------
+# Archives
+# ----------------------------
+
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# ----------------------------
+# Generated Documents
+# ----------------------------
+
+Published Documents/PDF/
+Published Documents/DOCX/
+Published Documents/HTML/
+
+# Uncomment if published outputs
+# should NOT be tracked by Git.
+# By default, keep these commented
+# because official releases belong
+# in the repository.
+
+# Published Documents/PDF/*
+# Published Documents/DOCX/*
+# Published Documents/HTML/*
