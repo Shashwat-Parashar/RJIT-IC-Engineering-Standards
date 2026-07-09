@@ -155,4 +155,4 @@ See the `LICENSE` file for the complete license text.
 **RJIT Innovation Club**
 
 Rustamji Institute of Technology  
-Gwalior, Madhya Pradesh, Indiay
+Gwalior, Madhya Pradesh, India
